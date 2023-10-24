@@ -1,0 +1,12 @@
+# Bibliotecas de Aprendizado de Máquina
+scikit-learn
+
+# Bibliotecas de Manipulação de Dados
+numpy
+pandas
+matplotlib
+seaborn
+missingno
+
+# Outras Bibliotecas
+warnings
